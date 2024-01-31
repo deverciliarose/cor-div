@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+.area{
+    width: 250px;
+    height: 200px;
+    border: 2px solid black;
+    border-radius: 10px;
+    display: flex;
+    margin-top: 90px;
+    margin-left: 35%;
+}
+button{
+    margin-top: 20px;
+    margin-left: 37%;
+}
+#btgreen{
+    color: green;
+}
+#btorange{
+    margin-left: 10px;
+    color: orangered;
+}
+#btred{
+    margin-left: 10px;
+    color: red;
+}
